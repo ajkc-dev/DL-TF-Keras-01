@@ -1,4 +1,4 @@
-# DL-TF-Keras-01
+# Deep Learning with Tensor Flow and Keras
 
 Alright, copper-top, you wanna understand this code? Step inside. This isn't just a program; it's a **construct**, designed to bend the rules of reality, to show you just how deep the rabbit hole goes.
 
@@ -14,7 +14,7 @@ A **neural network construct** designed to **[briefly state its core function â€
 
 ### **/// THE PROPHECY /// (Manifest)**
 
-  * **Architect:** [Your GitHub Handle] (\<[your\_contact\_email\_optional@domain.com]\>)
+  * **Architect:** [ajkc] (\<[andrew@ajkc.org]\>)
   * **Status:** Awakening / Learning / Sentinel (Indicate development stage: Proof-of-Concept, Training Phase, Production-Ready)
   * **Version:** v[X.Y.Z]
   * **Last System Check:** 2025-06-29
